@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true">
+    <!--android:weightSum="1"-->
+    <!--android:orientation="horizontal"-->
+
+  <!--  <TextView android:id="@+id/list_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimaryDark"
+
+        android:layout_margin="10dp"
+        android:layout_weight=".3"
+        android:ellipsize="end"
+        android:text="Sample Data"
+       />
+
+    <TextView android:id="@+id/list_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_weight=".3"
+        android:text="Sample Data 2"
+        />
+
+    <TextView android:id="@+id/list_cond"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_weight=".4"
+        android:text="Sample Data 3"
+        />-->
+
+
+  <ImageView
+      android:layout_width="46dp"
+      android:layout_height="51dp"
+      app:srcCompat="@drawable/open_book_icon"
+      android:layout_margin="10dp"
+      android:id="@+id/imageView2" />
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      android:clickable="true">
+
+    <TextView android:id="@+id/list_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="10dp"
+        android:text="Sample Data"
+        />
+    <TextView android:id="@+id/list_author"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textColor="@color/colorPrimaryDark"
+
+        android:text="Sample Data 2"
+        />
+
+    <TextView android:id="@+id/list_cond"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Sample Data 3"
+        />
+
+    </LinearLayout>
+
+</LinearLayout>

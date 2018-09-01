@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Shelf Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_book">Add Book</string>
+    <string name="condition_prompt">Book Condition</string>
+    <string name="add_book">Add a book from your Shelf!</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_author">Book Author</string>
+    <string name="book_desc">Description</string>
+    <string name="share_book">Share Book</string>
+    <string name="default_quote">The love of books is a love which requires neither justification, apology, nor defense.</string>
+
+    <string name="auth_failed">Authentication failed</string>
+    <string name="loading">Loading…</string>
+
+
+    <string-array name="condition_arrays">
+        <item>New</item>
+        <item>Good</item>
+        <item>Bad</item>
+        <item>Ugly</item>
+    </string-array>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_all_books">Shelf</string>
+    <string name="title_activity_single_book_info"></string>
+    <string name="title_activity_my_books">My Collection</string>
+    <string name="userName">Owner</string>
+    <string name="phone">Phone</string>
+    <string name="loc">Location</string>
+    <string name="rented">Rented</string>
+</resources>

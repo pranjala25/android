@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "593643371575",
+    "firebase_url": "https://shelfshare-bcc81.firebaseio.com",
+    "project_id": "shelfshare-bcc81",
+    "storage_bucket": "shelfshare-bcc81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593643371575:android:81a4cc0276920189",
+        "android_client_info": {
+          "package_name": "books.com.shelfsharetrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593643371575-e652cio2c03rjssassgnghhnlm618chl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "books.com.shelfsharetrial",
+            "certificate_hash": "a56a4142a0eee3def7bbe4bf8e9891145aeae8ec"
+          }
+        },
+        {
+          "client_id": "593643371575-5jfemf17btjlkljbkfsb8emp4v4mf8ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "books.com.shelfsharetrial",
+            "certificate_hash": "811041a05fb83157d1b61493d6d4caca9bc0e85e"
+          }
+        },
+        {
+          "client_id": "593643371575-7q52ir89rson55oecj8mqp3t4kedcolj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "books.com.shelfsharetrial",
+            "certificate_hash": "cb1f13f37b73b80c3509e9e988a3e8a6a0428b35"
+          }
+        },
+        {
+          "client_id": "593643371575-gr0tch0705a9idl7g585ce8gju3bo4qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGvh6h39Rx2Wnj1ui2cQS9XX6qD8icvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593643371575-gr0tch0705a9idl7g585ce8gju3bo4qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
